@@ -1,0 +1,6 @@
+globally accessible functional module implementation, such as,
+* database connection or S3 connector
+* file loaders and retrievers 
+* helper codes 
+* maths utils
+

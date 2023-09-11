@@ -1,0 +1,14 @@
+# ignore cache dirs & files
+__pycache__/
+.idea/
+.vscode/
+
+# ignore data and artifact dirs
+# data/
+# temp/
+
+# ignore env files
+venv/
+.env
+*rsa
+

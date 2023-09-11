@@ -1,0 +1,7 @@
+All the experiments on model and data such as;
+* model fune-tuning 
+* ablation tests
+* quantitation
+* validation and evaluation
+* data-loaders and pre-preprocessing pipeline building
+* EDA and visualizations
